@@ -8,5 +8,7 @@
         <a state = "/Bye"/>
         <q>Как дела</q>
         <a state = "/NoMatch"/>
+        <q>Дбрый день!</q>
+        <a state = "/Greeting"/>
     </test-case>
 </test>    

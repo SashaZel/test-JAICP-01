@@ -13,6 +13,10 @@ theme: /
     state: Bye
         intent!: /пока
         a: Пока пока
+        
+    state: Greeting
+        intent!: /здравствуйте
+        a: Здравствуйте!
 
     state: NoMatch
         event!: noMatch
