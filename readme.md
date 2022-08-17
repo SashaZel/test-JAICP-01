@@ -9,4 +9,4 @@ Not pure behaiveor of test enviroment... Or I don't understand something.
 Oh, I see it. I can check fired intents in 'Train intents and entities mode':
 On 'Пока' input fires only one Intents '/пока'.
 But for 'Здравствуйте' or 'Привет' inputs fires two intents: '/привет' and '/здравствуйте'
-It seems like a JavaScript works in loose non-strict mode (I'll prefer ES6 syntax...)
+It seems like a JavaScript works in loose non-strict mode and in different test env tests give different resusts (I'll prefer ES6 syntax...)
